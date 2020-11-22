@@ -1,0 +1,11 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/sb619/Desktop/vlsi/project_4/project_4.sim/sim_1/behav/xsim/glbl.v,1605894750,verilog,,,,glbl,,,,,,,,
+C:/Users/sb619/Desktop/vlsi/project_4/project_4.srcs/sim_1/new/vga_tb.v,1605894750,verilog,,,,vga_tb,,,../../../../project_4.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/sb619/Desktop/vlsi/project_4/project_4.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1606062039,verilog,,C:/Users/sb619/Desktop/vlsi/project_4/project_4.srcs/sources_1/new/horizontal_counter.v,,clk_wiz_0,,,../../../../project_4.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/sb619/Desktop/vlsi/project_4/project_4.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1606062039,verilog,,C:/Users/sb619/Desktop/vlsi/project_4/project_4.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../project_4.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/sb619/Desktop/vlsi/project_4/project_4.srcs/sources_1/new/horizontal_counter.v,1606066095,verilog,,C:/Users/sb619/Desktop/vlsi/project_4/project_4.srcs/sources_1/new/top.v,,horizontal_counter,,,../../../../project_4.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/sb619/Desktop/vlsi/project_4/project_4.srcs/sources_1/new/top.v,1606066584,verilog,,C:/Users/sb619/Desktop/vlsi/project_4/project_4.srcs/sources_1/new/vertical_counter.v,,top,,,../../../../project_4.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/sb619/Desktop/vlsi/project_4/project_4.srcs/sources_1/new/vertical_counter.v,1605894750,verilog,,C:/Users/sb619/Desktop/vlsi/project_4/project_4.srcs/sim_1/new/vga_tb.v,,vertical_counter,,,../../../../project_4.srcs/sources_1/ip/clk_wiz_0,,,,,
